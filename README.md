@@ -42,4 +42,17 @@ A real-time chat web app built using Spring Boot, STOMP, SockJS, and Thymeleaf.
 ## Snapshot
 <img width="1323" height="598" alt="image" src="https://github.com/user-attachments/assets/35d58691-93b6-49f2-ba93-21d93a096ebe" />
 
+## 🛠️ Future Enhancements
+As the project continues to grow, here are a few features and improvements planned for future versions:
+
+- ✅ **User Authentication**: Add login and signup features to identify users.
+- 🧑‍🤝‍🧑 **User List Display**: Show a list of currently active users in the chatroom.
+- 📱 **Mobile Responsiveness**: Improve UI to work seamlessly on mobile and tablets.
+- ⏰ **Message History**: Store messages in a database so users can view past chats.
+- 🌐 **Deploy Online**: Host the app using Render, Railway, or AWS for public access.
+- 🎨 **UI Improvements**: Enhance the chat interface with better animations and themes.
+- 📥 **File Sharing Support**: Allow users to send images or documents through chat.
+- 🔒 **Security Upgrades**: Add rate-limiting, input validation, and session protection.
+- 🧠 **AI Chatbot**: Integrate a basic AI bot that responds to users in the chatroom.
+- 📊 **Analytics Dashboard**: Admin panel to track user activity and chat stats.
 
