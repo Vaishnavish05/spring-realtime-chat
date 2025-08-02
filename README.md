@@ -54,5 +54,5 @@ As the project continues to grow, here are a few features and improvements plann
 - 📥 **File Sharing Support**: Allow users to send images or documents through chat.
 - 🔒 **Security Upgrades**: Add rate-limiting, input validation, and session protection.
 - 🧠 **AI Chatbot**: Integrate a basic AI bot that responds to users in the chatroom.
-- 📊 **Analytics Dashboard**: Admin panel to track user activity and chat stats.
+
 
